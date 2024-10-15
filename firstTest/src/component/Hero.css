@@ -1,0 +1,9 @@
+.hero{
+   display: flex; 
+   gap: 250px;
+}
+
+.image{
+    width: 350px;
+    margin-top: 40px;
+}
