@@ -1,0 +1,33 @@
+.btn1{
+    background-color: #0052cc;
+    color: white;
+    width: 250px;
+    height: 45px;
+    border-radius: 10px;
+    border: none;
+    margin-top: 20px;
+    margin-left: 130px;
+    font-family: "Inter", sans-serif; 
+    font-size: 15px;
+    font-weight: 700;
+}
+.btn2{
+    background-color: white;
+    color: black;
+    width: 250px;
+    height: 45px;
+    border-radius: 10px;
+    border-color: rgb(199, 195, 195);
+    margin-top: 20px;
+    margin-left: 130px;
+    font-family: "Inter", sans-serif; 
+    font-size: 15px;
+    font-weight: 700;
+
+}
+/* .btn3{
+    border:none ;
+    background-color: hotpink;
+    width: 200px;
+    height: 80px;
+} */

@@ -1,0 +1,27 @@
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    font-family: "Inter", sans-serif; 
+    background-color:rgb(245, 243, 243) ;
+    
+
+}
+.footer p{
+    font-size: 20px;
+}
+ .tools :hover, p :hover{
+    color: blue;
+}
+
+.more :hover, p :hover{
+    color: blue;
+
+}
+.jobs :hover, p :hover{
+    color: blue;
+
+}
+.company :hover, p:hover{
+    color: blue;
+
+}

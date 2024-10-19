@@ -1,0 +1,15 @@
+.coy img{
+    width: 70px;
+}
+.coy{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    padding: 80px;
+    margin-top: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.coys :hover, img :hover{
+    transform: scaleX(1.5);
+}

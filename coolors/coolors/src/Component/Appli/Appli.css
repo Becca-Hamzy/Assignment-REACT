@@ -1,0 +1,33 @@
+.AppCont{
+    width: 200px;
+    height: 280px;
+    font-family:"Inter", sans-serif; 
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+    word-spacing: -0.5;
+    background-color: rgb(245, 243, 243);
+    border-radius: 10px;
+    margin-top: 150px;
+
+
+}
+
+.applic{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 50px ;
+    margin: 20px;
+}
+.applic img{
+    width: 40px;
+    padding-left: 10px;
+    margin-top: 40px;
+}
+.words{
+    font-size: 15px;
+    /* font-family:"Inter", sans-serif;  */
+    text-align: center;
+    color: grey;
+
+}

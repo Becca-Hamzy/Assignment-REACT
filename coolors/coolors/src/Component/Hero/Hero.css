@@ -1,0 +1,37 @@
+
+.hero{
+    width: 100%;
+    height: 450px;
+    /* border: 1px solid; */
+    display: flex;
+    justify-content: space-between;  
+    padding-left: 20px; 
+}
+.text{
+    width: 40%;
+    /* border: 1px solid; */
+
+
+}
+.text h1 {
+    font-size: 80px;
+    font-weight: 800;
+    font-family: "Inter", sans-serif; 
+    letter-spacing: -0.050em;  
+    text-align: center;
+
+}
+.text p{
+    text-align: center;
+    font-size: 20px;
+    font-family: "Inter", sans-serif; 
+    padding-left: 50px;
+    padding-right: 50px;
+}   
+.palette img{
+width: 800px;
+margin-top: 170px;
+height: 500px;
+
+
+}
